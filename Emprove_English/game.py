@@ -63,8 +63,8 @@ class Game:
         x = randint(0, 1)
         if x == 1:
             hand_card.face, hand_card.back = hand_card.back, hand_card.face
-        print(f'-> Translate the text: {hand_card.get_card_face()}')
-        text = input("-> Your version here: ").strip().lower()
+        print(f'-> Translate the text [{hand_card.topic}]: {hand_card.get_card_face()}')
+        text = input(f"-> Your version here [{hand_card.topic}]: ").strip().lower()
         if text.isdigit():
             return False
         if text == hand_card.get_card_back():

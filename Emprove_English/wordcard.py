@@ -1,9 +1,10 @@
 class WordCard:
 
-    def __init__(self, filename: str, line_idx: int, category: int, face: str, back: str, rate: int):
+    def __init__(self, filename: str, line_idx: int, category: int, topic: str, face: str, back: str, rate: int):
         self.filename: str = filename
         self.line_idx: int = line_idx
         self.category: int = category
+        self.topic: str = topic
         self.face: str = face
         self.back: str = back
         self.rate: int = rate

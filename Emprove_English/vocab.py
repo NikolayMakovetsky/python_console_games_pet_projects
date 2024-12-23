@@ -90,9 +90,16 @@ class Vocab:
                         line = line.replace('*', '')
                         card_face, card_back = [x.strip().lower() for x in line.split('-')]
 
+                        topic = ""
+                        for t in self.topics:
+                            if t in f.name:
+                                topic = t
+                                break
+
                         w_card = WordCard(filename=file,
                                           line_idx=index,
                                           category=category_name,
+                                          topic=topic,
                                           face=card_face,
                                           back=card_back,
                                           rate=card_rate)
