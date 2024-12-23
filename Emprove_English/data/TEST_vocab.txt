@@ -1,0 +1,6 @@
+HOME - дом*
+drop calls - сбрасывать звонки*
+recieve calls - принимать звонки*
+transmit information - передавать информацию
+search line - поисковая строка
+exchange messages - обмениваться сообщениями
