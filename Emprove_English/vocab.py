@@ -39,9 +39,14 @@ class Vocab:
         for idx, t in enumerate(topics):
             print(f'Topic({idx}): {t}')
 
+        print(f'Input topic numbers or keyword "all" to select all topics at once')
         available_topic_nums = [x for x in range(len(topics))]
         while True:
-            chosen_topic_nums = input("Input numbers: ").split()
+            user_input = input("Input: ")
+            if user_input.strip().lower() == "all":
+                checked_topic_nums = available_topic_nums
+                break
+            chosen_topic_nums = user_input.split()
             checked_topic_nums = []
             for t_num in chosen_topic_nums:
                 if t_num.isdigit():
