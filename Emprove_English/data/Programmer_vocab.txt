@@ -1,0 +1,44 @@
+
+There are many approaches to the problem - Существует множество подходов к этой проблеме
+linked list - связанный список
+integer division - целочисленное деление
+even number - четное число
+odd number - нечетное число
+middle node - средний узел
+the vertices of the triangle - вершины треугольника
+Let's begin by creating an array - давайте начнем с создания массива
+array - массив
+link list - список ссылок
+data structure - структура данных
+last node - последний узел
+integer value - целочисленное значение
+I added elements to the list - я добавил элементы в список
+We can increment length by one - Мы можем увеличить длину на единицу
+He reduced the value of the variable - Он уменьшил значение переменной
+time complexity of the algorithm - временная сложность алгоритма
+space complexity of the algorithm - пространственная сложность алгоритма
+Equal sized lists - списки одинакового размера
+You are expected to solve the problem - от вас ожидается что вы решите проблему
+How do we go about this without copying an array? - Как нам это сделать не копируя массив?
+second approach - второй подход
+two particular nodes - два конкретных узла
+Our middle node moves on - наш средний узел перемещается
+Our middle node stays in place - наш средний узел остается на месте
+Notice the pattern - Обратите внимение на закономерность
+The value of the variable is constant - Значение переменной постоянно
+Let's turn it into code - Давайте превратим это в код
+We declare two functions - Мы объявляем две функции
+on your own - самостоятельно
+coding interview - собеседование по кодированию
+technical interview - техническое собеседование
+what is your ranking? - Каков ваш рейтинг?
+appropriate column - соответствующая колонка
+heap - куча
+graph - граф
+sorting - сортировка
+crash course - ускоренный курс
+uppercase - верхний регистр
+lowercase - нижний регистр
+
+
+

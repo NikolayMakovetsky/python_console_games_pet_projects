@@ -1,0 +1,92 @@
+
+pharmacy - аптека
+workout - тренировка
+I cought a cold - я простудился
+How are you feeling - Как ты себя чувствуешь?
+I feel fatigue - я чувствую слабость
+I feel down - я чувствую недомогание
+sickness - простуда
+I have runny nose - у меня насморк
+I don't have cough - у меня нет кашля
+I have sore throat - у меня болит горло
+I often cough - я часто кашляю
+sick list - больничный лист
+be on sick leave - быть на больничном
+I want to consult a doctor - я хочу проконсильтироваться с доктором
+headache - головная боль
+doctor examinated me - доктор осмотрел меня
+Let me examine you - дайте мне осмотреть вас
+I'm going to hear your lungs - я собираюсь послушать ваши легкие
+doctor prescribes you a medicine - доктор выписывает вам лекарство
+I bought medicines for my son - я купил лекарства для моего сына
+annual medical check up - ежегодный медицинский осмотр
+I had a severe case - у меня был тяжелый случай
+I've had very severe depression - у меня была очень тяжелая депрессия
+gp - врач общей практики
+Do you know how to treat yourself - Вы знаете как себя лечить?
+medicines - лекарства
+pills - таблетки
+I hope your seakness will pass away - я надеюсь что ваше заболевание пройдет
+It's less harmful for eyes - это менее вредно для глаз
+You recovered very quickly - вы выздоровели очень быстро
+Am I sick? - я болен?
+pain sensation - болевые ощущения
+painkiller - болеуталяющее
+I feel good - я чувствую себя хорошо
+I feel normal - я чувствую себя нормально
+I feel wonderful - я чувствую себя великолепно
+I feel like I always do - я чувствую себя как обычно
+I burn calories - я сжигаю калории
+I have a lot of sympthomes - у меня много симптомов
+I'm out of energy - У меня закончилась энергия
+I want to restore the health of my muscles - я хочу восстановить здоровье своих мышц
+some thaining on basketball - небольшая тренировка по баскетболу
+some thaining on football - небольшая тренировка по футболу
+some thaining on fitness - небольшая тренировка по фитнесу
+warming up - разминка
+to warm up - разминаться
+She is into running more than me - она в беге дольше меня
+You rarely wins - ты редко выигрываешь
+She wins very seldom - она выигрывает очень редко
+I fell ill - я заболел
+I have a stomachache - у меня боль в животе
+Did you take pills? - вы принимали таблетки?
+You're fighting the desease - вы боретесь с болезнью
+You won't give up - вы не сдатитесь
+It was severe disease - это была тяжелая болезнь
+It is your destiny - это твоя судьба
+He performs the surgeries - он проводит операции
+I'm going to treat your brother - я собираюсь вылечить твоего брата
+they expect a fuul recovery - они ожидают полное восстановление
+location - место
+event - событие
+container - емкость
+object - предмет
+substance - субстанция
+tool - инструмент
+thing - вещь
+sickness - болезнь
+sport achievements - спортивные достижения
+I don't count calories - Я не считаю калории
+I count up to five - я считаю до пяти
+allergy - аллергия
+I'm getting better - мне становится лучше
+Get well - поправляйся
+I'm getting well - я выздоравливаю
+scoliosis - сколиоз
+I want to correct my posture - я хочу исправить свою осанку
+posture - поза
+recover process - восстановительный процесс
+bronchus - бронхи
+illness complication - осложнение болезни
+in particular - в частности
+hoarse voice - хриплый голос
+inhalations - ингаляции
+steam - пар
+essential oil - эфирное масло
+I purchased this thing - я приобрел эту штуку
+I treated my lungs - я лечил свои легкие
+moisturize your skin - увлажните вашу кожу
+satisfactory result - удовлетворительный результат
+surgery - хирургия
+You are in good shape - ты в хорошей форме
